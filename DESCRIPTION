@@ -10,3 +10,5 @@ Description: Context-Specific Nested Effects Models, a network inference method 
 License: BSD_3_clause + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
