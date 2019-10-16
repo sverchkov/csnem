@@ -4,7 +4,6 @@ Title: Context-Specific Nested Effects Models, a network inference method for hi
 Version: 0.1.0
 Authors@R: c(
     person("Yuriy", "Sverchkov", email = "yuriy.sverchkov@wisc.edu", role = c("aut", "cre")))
-Maintainer: The package maintainer <yourself@somewhere.net>
 Description: Context-Specific Nested Effects Models, a network inference method for high-throughput knockout screens.
     We provide an R API to the method as well as a shiny app.
 License: BSD_3_clause + file LICENSE
@@ -12,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat (>= 2.1.0)
+RoxygenNote: 6.1.1
