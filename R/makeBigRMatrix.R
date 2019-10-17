@@ -6,7 +6,6 @@
 #' @param k the number of times to append the small R matrix to itself
 #' @return the small R matrix appended to itself k times with column names remapped to <name>_i for i in 1...k
 #'
-#' @export
 #' @import purrr
 makeBigRMatrix <- function ( small.R.matrix, k ){
   1:k %>%
