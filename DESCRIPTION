@@ -1,6 +1,6 @@
 Package: csnem
 Type: Package
-Title: Context-Specific Nested Effects Models, a network inference method for high-throughput knockout screens.
+Title: Context-Specific Nested Effects Models, a network inference method for high-throughput knockout screens
 Version: 0.1.0
 Authors@R: c(
     person("Yuriy", "Sverchkov", email = "yuriy.sverchkov@wisc.edu", role = c("aut", "cre")))
@@ -13,4 +13,6 @@ Suggests:
     testthat (>= 2.1.0)
 RoxygenNote: 6.1.1
 Imports: 
-    purrr
+    purrr,
+    nem,
+    Matrix
