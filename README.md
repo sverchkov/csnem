@@ -1,6 +1,8 @@
 # csnem
 
 <!-- badges: start -->
+[![Build Status](https://travis-ci.com/sverchkov/csnem.svg?branch=master)](https://travis-ci.com/sverchkov/csnem)
+[![codecov](https://codecov.io/gh/sverchkov/csnem/branch/master/graph/badge.svg)](https://codecov.io/gh/sverchkov/csnem)
 <!-- badges: end -->
 
 `csnem` is the implementation of Context-Specific Nested Effects Models, a network inference method for high-throughput knockout screens.
